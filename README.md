@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         YouLikeHits Bot
-// @namespace    https://github.com/gekkedev/youlikehitsbot
+// @namespace    https://github.com/gembeltechno/youlikehits
 // @version      0.4.1
 // @description  Interacts with YLH automatically whereever possible.
 // @author       Gembel Techno
-// @updateURL    https://raw.githubusercontent.com/gembeltechno/youlikehitsbot/master/youlikehitsbot.user.js
-// @downloadURL  https://raw.githubusercontent.com/gembeltechno/youlikehitsbot/master/youlikehitsbot.user.js
+// @updateURL    https://raw.githubusercontent.com/gembeltechno/youlikehits/master/youlikehitsbot.user.js
+// @downloadURL  https://raw.githubusercontent.com/gembeltechno/youlikehits/master/youlikehitsbot.user.js
 // @match        *://*.youlikehits.com/login.php
 // @match        *://*.youlikehits.com/websites.php*
 // @match        *://*.youlikehits.com/viewwebsite.php*
